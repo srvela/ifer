@@ -1,0 +1,14 @@
+android
+store
+nativo
+movil
+móvil
+aplicaciones 
+threads
+gps
+jobs
+realm
+dagger
+butterknife
+javarx
+mockito  
